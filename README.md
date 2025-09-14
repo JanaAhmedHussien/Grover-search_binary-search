@@ -1,7 +1,7 @@
 # Quantum Computing Comparative Analysis  
 _A Comparative Study of Grover’s Algorithm and Conventional Binary Search_
 
-![Project Overview]()  
+![Project Overview](download.png)  
 
 ---
 
